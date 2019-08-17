@@ -1,0 +1,16 @@
+* {
+    box-sizing: inherit;
+    // border: 1px solid red;
+}
+
+html {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-size: 62.5%;
+    font-family: 'Open sans', sans-serif;
+    line-height: 1.6;
+    color: $dark-color;
+}
